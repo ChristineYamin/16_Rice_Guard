@@ -1,0 +1,28 @@
+# Virtual environments
+.venv/
+.venv-1/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large/private project data
+data/raw/
+data/processed/
+data/satellite/
+
+# Trained models
+models/
+*.pt
+*.pth
+
+# Generated files
+outputs/predictions/
+outputs/maps/
+
+# Environment variables
+.env
