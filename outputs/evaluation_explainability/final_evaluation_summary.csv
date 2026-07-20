@@ -1,0 +1,2 @@
+model,test_samples,test_accuracy,macro_precision,macro_recall,macro_f1,weighted_f1,mean_confidence,correct_mean_confidence,incorrect_mean_confidence
+MobileNetV3-Small,1562,0.7816901408450704,0.7684105061239136,0.7967916334036154,0.774504550430208,0.7846676807204055,0.79236245,0.8512035,0.5816739

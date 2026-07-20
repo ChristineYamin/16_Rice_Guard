@@ -1,0 +1,2 @@
+model,best_epoch,validation_accuracy,test_loss,test_accuracy,macro_precision,macro_recall,macro_f1,weighted_f1,training_minutes
+EfficientNet-B0,9,0.6271620755925689,1.0602987322398245,0.6293213828425096,0.6081452961696875,0.6637393188775749,0.6100007598782771,0.6275043230418537,15.22

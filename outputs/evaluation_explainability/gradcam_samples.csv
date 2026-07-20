@@ -1,0 +1,7 @@
+image_id,image_path,label,true_target,predicted_target,predicted_label,confidence,correct_prediction
+100394.jpg,C:\Projects\16_Rice_Guard\data\raw\train_images\bacterial_leaf_streak\100394.jpg,bacterial_leaf_streak,1,1,bacterial_leaf_streak,0.9999999,True
+107674.jpg,C:\Projects\16_Rice_Guard\data\raw\train_images\bacterial_leaf_streak\107674.jpg,bacterial_leaf_streak,1,1,bacterial_leaf_streak,0.99999905,True
+106459.jpg,C:\Projects\16_Rice_Guard\data\raw\train_images\bacterial_leaf_streak\106459.jpg,bacterial_leaf_streak,1,1,bacterial_leaf_streak,0.9999989,True
+106035.jpg,C:\Projects\16_Rice_Guard\data\raw\train_images\normal\106035.jpg,normal,8,7,hispa,0.99702865,False
+101921.jpg,C:\Projects\16_Rice_Guard\data\raw\train_images\hispa\101921.jpg,hispa,7,8,normal,0.987094,False
+100103.jpg,C:\Projects\16_Rice_Guard\data\raw\train_images\hispa\100103.jpg,hispa,7,0,bacterial_leaf_blight,0.98642576,False

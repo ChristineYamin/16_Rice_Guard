@@ -1,0 +1,4 @@
+group,count,mean_confidence,median_confidence
+All predictions,1562,0.79236245,0.88301903
+Correct predictions,1221,0.8512035,0.93642443
+Incorrect predictions,341,0.5816739,0.54366255

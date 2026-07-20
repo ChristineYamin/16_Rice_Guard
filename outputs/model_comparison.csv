@@ -1,0 +1,4 @@
+model,best_epoch,validation_accuracy,test_loss,test_accuracy,macro_precision,macro_recall,macro_f1,weighted_f1,training_minutes
+MobileNetV3-Small,10,0.7783,0.5967,0.7817,0.7684,0.7968,0.7745,0.7847,14.27
+EfficientNet-B0,9,0.6272,1.0603,0.6293,0.6081,0.6637,0.61,0.6275,15.22
+Baseline CNN,10,0.5727,1.2682,0.5813,0.5734,0.5738,0.5533,0.5696,74.3009
