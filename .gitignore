@@ -15,11 +15,6 @@ data/raw/
 data/processed/
 data/satellite/
 
-# Trained models
-models/
-*.pt
-*.pth
-
 # Generated files
 outputs/predictions/
 outputs/maps/
